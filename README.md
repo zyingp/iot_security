@@ -14,6 +14,8 @@ qemu，binwalk，IDA pro
 
 afl++，angr，qiling
 
+fuzzing相关可参考 https://github.com/zyingp/fuzzing_resources
+
 均可参考官方文档
 
 ## 书籍
