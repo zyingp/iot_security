@@ -9,14 +9,19 @@ IoT Security related resources
 ## 漏洞挖掘实例
 https://github.com/VulnTotal-Team/IoT-vulhub
 
+https://paper.seebug.org/category/IoT/
+
 ## 工具
 qemu，binwalk，IDA pro
 
 afl++，angr，qiling
 
+均可参考官方文档
+
+D-Link固件解密工具 https://github.com/0xricksanchez/dlink-decrypt
+
 fuzzing相关可参考 https://github.com/zyingp/fuzzing_resources
 
-均可参考官方文档
 
 ## 书籍
 因为时效、干货不多等原因，书籍尚未发现很好的，仅供参考
