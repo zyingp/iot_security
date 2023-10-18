@@ -6,6 +6,15 @@ IoT Security related resources
 
 中文CTF-wiki  https://ctf-wiki.org/ 
 
+## 分析方式
+动态分析
+
+如gdb调试 https://blog.csdn.net/song_lee/article/details/113033495
+
+静态分析
+
+如IDA pro分析
+
 ## 漏洞挖掘实例
 https://github.com/VulnTotal-Team/IoT-vulhub
 
